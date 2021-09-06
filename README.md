@@ -1,4 +1,4 @@
-# MakerGram Community Support Repository
+# MakerGram.com Support
 
 Hello Makers,
 
