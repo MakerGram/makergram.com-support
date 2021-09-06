@@ -11,5 +11,7 @@ If you want to have anything don't fall into any of the above mentioned categori
 
 We're happy to hear from you! Together lets make MakerGram.com a better place for Makers all around the globe!
 
-Best,
-MakerGram Team
+Best,  
+
+Team MakerGram  
+contact@makergram.com
