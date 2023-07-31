@@ -1,6 +1,6 @@
 ---
-name: Question
-about: Ask a question
+name: Ask a Question or Clarify a doubt
+about: Get clarification on any Question/Doubt you have on how to use the platform.
 title: ''
 labels: question
 assignees: ''
